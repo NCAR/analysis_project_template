@@ -1,0 +1,7 @@
+name: analysis
+channels:
+    - conda-forge
+    - nodefaults
+dependencies:
+    - bokeh
+    - bottleneck
