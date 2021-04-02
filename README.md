@@ -5,10 +5,10 @@ This is a sample template meant to be used for workflows centered around noteboo
 This template is meant to give you the basic setup of an "analysis" repository, focused on storing notebooks or other pieces of scientific code/documentation. This repository is not meant to be a "one size fits all" repository, but rather, a starting point from which the user can build upon.
 
 ## Essential checklist for your repository
-- [] Software license
-- [] Detailed readme
-- [] Update the environment.yml file in include the required libraries/packages
-- [] Your analysis code/notebooks!
+- [ ] Software license
+- [ ] Detailed readme
+- [ ] Update the environment.yml file in include the required libraries/packages
+- [ ] Your analysis code/notebooks!
 
 ## Choosing a license for this repository
 There are a variety of software licenses to choose from. The default for this
