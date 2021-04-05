@@ -3,5 +3,11 @@ channels:
     - conda-forge
     - nodefaults
 dependencies:
-    - bokeh
-    - bottleneck
+    - numpy
+    - xarray
+    - matplotlib
+    - cartopy
+    - dask
+    - jupyter
+    - jupyterlab
+    - netCDF4
