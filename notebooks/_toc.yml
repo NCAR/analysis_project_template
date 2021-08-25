@@ -1,5 +1,4 @@
 format: jb-book
 root: intro
 chapters:
-# You can add your own notebooks here - for this example, we add all notebooks in the notebooks directory
-- glob: * 
+- file:  Notebook_Template
